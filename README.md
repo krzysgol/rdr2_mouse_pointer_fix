@@ -8,7 +8,9 @@ This is mostly usable for people who play RDR2 using a **controller**. May not b
 
 2. Upon detection of a running instance of RDR2 this app starts periodically repositioning the mouse pointer to the rightmost edge of the rightmost display.
 
-3. The app will exit automaticaly when you quit the game.
+3. The app will exit automatically when you quit the game.
+
+I don't guarantee it will work correctly in every environment. **Use it at your own risk.**
 
 #### Build prerequisites ####
 * CMake
